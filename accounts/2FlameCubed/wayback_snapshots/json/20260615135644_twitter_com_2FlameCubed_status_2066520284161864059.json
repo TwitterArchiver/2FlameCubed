@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2066445278438412415",
+    "created_at": "2026-06-15T13:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066520284161864059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1456231777224347651",
+          "start": 0,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066520284161864059",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066445278438412415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 他达拉非促智的原理是什么（思思）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2066445278438412415",
+        "created_at": "2026-06-15T13:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066520284161864059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066520284161864059",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066445278438412415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 他达拉非促智的原理是什么（思思）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456231777224347651",
+        "conversation_id": "2066445278438412415",
+        "created_at": "2026-06-15T08:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066445278438412415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BasedBiohacker…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/BasedBiohacker/status/2065796024333914178",
+              "start": 120,
+              "url": "https://t.co/hqvQat5nIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066445278438412415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 149,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065796024333914178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "s列的苏糖酸镁和cdp胆碱是认同的，效果是很好但苏糖酸镁有戒断反应。其他都没用过。bromantane虽然无极有卖但现在不太想用rc了因为真正很有必要努力学习的东西已经没有了。\na列苯基吡拉西坦效果很好啊为什么只是a。剩下的都没用过。。。 https://t.co/hqvQat5nIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 972,
+          "like_count": 1675,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 320
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "江湖有缘再见",
+        "id": "1456231777224347651",
+        "name": "无名",
+        "pinned_tweet_id": "2043152868023345413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 83,
+          "like_count": 4431,
+          "listed_count": 0,
+          "media_count": 820,
+          "tweet_count": 11602
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

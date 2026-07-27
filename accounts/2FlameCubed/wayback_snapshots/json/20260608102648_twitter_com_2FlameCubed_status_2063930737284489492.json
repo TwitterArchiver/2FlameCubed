@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2063885212908650709",
+    "created_at": "2026-06-08T10:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063930737284489492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2017934187907665920",
+          "start": 0,
+          "username": "ch8_we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063930737284489492",
+    "in_reply_to_user_id": "2017934187907665920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063885212908650709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch8_we 呃啊……建议买日版的喵qwq 便宜很多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063885210245304320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRkqe3akAA_mMV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2063885212908650709",
+        "created_at": "2026-06-08T10:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063930737284489492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2017934187907665920",
+              "start": 0,
+              "username": "ch8_we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063930737284489492",
+        "in_reply_to_user_id": "2017934187907665920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063885212908650709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch8_we 呃啊……建议买日版的喵qwq 便宜很多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063885210245304320"
+          ]
+        },
+        "author_id": "2017934187907665920",
+        "conversation_id": "2063885212908650709",
+        "created_at": "2026-06-08T07:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063885212908650709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uYSjxLaXIL",
+              "end": 54,
+              "expanded_url": "https://x.com/ch8_we/status/2063885212908650709/photo/1",
+              "media_key": "3_2063885210245304320",
+              "start": 31,
+              "url": "https://t.co/uYSjxLaXIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063885212908650709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求效果，好贵，不过我每天晚上都很饿，，这个应该会对我起效吧😭 https://t.co/uYSjxLaXIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 962,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 300
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T12:13:58.000Z",
+        "description": "trans girl/小证含糖/半地下半家长党/hrt20250807/抑郁/焦虑/self hurt/od/08 09 07/精神状态不好的高二生",
+        "id": "2017934187907665920",
+        "location": "Baltimore, MD",
+        "name": "mikki_z🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606014276124672/glEbB4q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 190,
+          "like_count": 2351,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 385
+        },
+        "username": "ch8_we",
+        "verified": false
+      }
+    ]
+  }
+}

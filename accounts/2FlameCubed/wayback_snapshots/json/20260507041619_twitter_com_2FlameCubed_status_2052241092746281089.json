@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2052241092746281089",
+    "created_at": "2026-05-07T04:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052241092746281089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1888833493",
+          "start": 3,
+          "username": "tanpenguin0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052241092746281089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051702572436816232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanpenguin0615: 选举结果出来了，PRF以微弱的劣势位居第三。相较于我们PRF党员的数量，虽然没能超过CSR，但这个投票数量就我个人而言是挺满意的。\n\n我有一点关于这次中推大选的思考，首先是关于大选的，其次是关于PRF本党的：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2052241092746281089",
+        "created_at": "2026-05-07T04:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052241092746281089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1888833493",
+              "start": 3,
+              "username": "tanpenguin0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052241092746281089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051702572436816232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanpenguin0615: 选举结果出来了，PRF以微弱的劣势位居第三。相较于我们PRF党员的数量，虽然没能超过CSR，但这个投票数量就我个人而言是挺满意的。\n\n我有一点关于这次中推大选的思考，首先是关于大选的，其次是关于PRF本党的：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888833493",
+        "conversation_id": "2051702572436816232",
+        "created_at": "2026-05-05T16:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:27:46.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051700390228598914",
+          "2051700557321281630",
+          "2051702572436816232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asanagiyori486…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/asanagiyori486/status/2051693754596385089",
+              "start": 105,
+              "url": "https://t.co/qM8MQOrtkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051702572436816232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "选举结果出来了，PRF以微弱的劣势位居第三。相较于我们PRF党员的数量，虽然没能超过CSR，但这个投票数量就我个人而言是挺满意的。\n\n我有一点关于这次中推大选的思考，首先是关于大选的，其次是关于PRF本党的：\n\n这次中推大选的时间并未设置在寒暑假这类学生长假期间，这使得很多原本有上推特习惯的人无法了解和参与本次选举，也没能组织起有效的辩论以使选民了解各党的政策，我认为稍有遗憾。\n\nODP是这次中推大选最后一个进行政党登记的，甚至可以说是鼠尾草主席心血来潮的组织活动。却是吸纳了最多成员，以及获得最高票数的。这客观印证了有共同爱好的小团体，往往动员能力也相对较强。\n\nODP的崛起与其成员相对空闲时间较多也有较强的关联，如果是寒暑假这类国际共运的高潮，那么选举结果很有可能会大相径庭。\n\n另一个现象就是左派占据了这次大选的主流，CSR（社会）、PRF（经济）和ODP（特定议题）这三大党都是某种视角上的左派。虽然现在社会上对于年轻人“民粹化”的讨论很多，但考虑到能上推特的未成年人某种程度上都是同龄人中的“精英”，不得不说我们这个社会的未来是有希望的。\n\n至于PRF和我个人，我首先要反思我个人的不足：那就是没能为PRF做更多有效的宣传工作。这其一是因为我这个账号本身就是生活账号，没有太多的流量；其二是因为我并没有系统学习过平面设计的技能。如果明年还有类似模拟选举的活动，学习了些许平面设计知识的我同样会选择一个类似于PRF的中左社会民主主义政党加入，以期为其做出更多贡献。\n\n除此之外，我没能为PRF贡献更多的选票，这其一是因为我本人的社交圈子中，有浏览国际互联网习惯的人数有限；其二则是因为客观条件的限制，最近钱全拿来去买音乐会门票了，经济紧张，无法通过过小门槛妹妹的门槛之类的“捷径”来为本党拉取更多的选票。\n\nPRF在宣传上，对日本的国民民主党的模仿色彩过于浓烈，两国差距悬殊的社会现状，使得这种模仿在我看来有些拙劣。另一个遗憾在于我们始终强调调和，而忽略了调和本身也是一种意识形态的色彩：那就是社会自由主义。我认为这种调和liberty与liberation的意识形态，在当今社会的价值尤其珍贵。\n\n这次选举让我认识了很多新朋友，PRF作为一个温和的自由主义政党，党员同仁们都很善良。ODP的大家也都温柔可爱，其中不乏有探索精神的小学究。这种并未建构在现实生活基础之上的友情，反倒是国际互联网“Alle Menschen werden Brüder,\nWo dein sanfter Flügel weilt.（四海之内皆兄弟）”的本真面貌。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051693754596385089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "选举结果出来了，PRF以微弱的劣势位居第三。相较于我们PRF党员的数量，虽然没能超过CSR，但这个投票数量就我个人而言是挺满意的。\n\n我有一点关于这次中推大选的思考，首先是关于大选的，其次是关于PRF本党的： https://t.co/qM8MQOrtkl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 881,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T03:59:58.000Z",
+        "description": "交通旅行建筑音乐 理性有序适度节制",
+        "id": "1888833493",
+        "name": "谭企鹅",
+        "pinned_tweet_id": "2031782182394757353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984896814840242176/Jc6PjnNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 410,
+          "like_count": 603,
+          "listed_count": 2,
+          "media_count": 1147,
+          "tweet_count": 2981
+        },
+        "url": "",
+        "username": "tanpenguin0615",
+        "verified": true
+      }
+    ]
+  }
+}

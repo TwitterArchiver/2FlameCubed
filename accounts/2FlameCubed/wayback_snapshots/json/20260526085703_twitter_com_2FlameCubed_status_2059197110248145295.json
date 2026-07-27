@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059197107643584512"
+      ]
+    },
+    "author_id": "1667423809148981248",
+    "conversation_id": "2059194635789164646",
+    "created_at": "2026-05-26T08:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059197110248145295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pHqZniHcAe",
+          "end": 42,
+          "expanded_url": "https://x.com/2FlameCubed/status/2059197110248145295/photo/1",
+          "media_key": "3_2059197107643584512",
+          "start": 19,
+          "url": "https://t.co/pHqZniHcAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059197110248145295",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059194635789164646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 （） https://t.co/pHqZniHcAe"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059194635789164646].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059194635789164646",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059194635789164646"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2059197107643584512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO82_ubkAADsmT.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059197107643584512"
+          ]
+        },
+        "author_id": "1667423809148981248",
+        "conversation_id": "2059194635789164646",
+        "created_at": "2026-05-26T08:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059197110248145295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHqZniHcAe",
+              "end": 42,
+              "expanded_url": "https://x.com/2FlameCubed/status/2059197110248145295/photo/1",
+              "media_key": "3_2059197107643584512",
+              "start": 19,
+              "url": "https://t.co/pHqZniHcAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059197110248145295",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059194635789164646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 （） https://t.co/pHqZniHcAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 917,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 257
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "退役oder🐱\n锁推只是防止被推送出去！欢迎互fo\n\n#drugtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 27,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 42,
+                "start": 36,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "🏳️‍🌈🏳️‍⚧️💛🤍💜🖤he/they/🐱",
+        "name": "🐱",
+        "pinned_tweet_id": "2045977962999332890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051338286296387587/A6mOoIbE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 1214,
+          "like_count": 5956,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 3684
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

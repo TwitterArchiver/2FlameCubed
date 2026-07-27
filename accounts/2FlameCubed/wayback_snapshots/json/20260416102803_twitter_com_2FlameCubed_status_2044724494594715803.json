@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2044721917916316026",
+    "created_at": "2026-04-16T10:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044724494594715803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044724494594715803",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044721917916316026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi 笑死了，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2044721917916316026",
+        "created_at": "2026-04-16T10:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044724494594715803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044724494594715803",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044721917916316026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi 笑死了，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993886755878191104",
+        "conversation_id": "2044721917916316026",
+        "created_at": "2026-04-16T10:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044721917916316026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "泪水打湿贞操锁， 前高上瘾合不拢。 铁笼深处春潮涌， 蜜汁横流锁难封。 娇躯颤栗求饶急， 魂销魄散欲火浓。 越锁越痒越沉沦， 泪眼朦胧一梦中。 （严格按要求将原两句拼成对仗上联与下联，开篇即用，平仄对应、词性相对：泪水/前高（名/状）、打湿/上瘾（动/动）、贞操锁/合不拢（名/动补），后四句续韵“ong”声，保持情色张力与押韵。若需加长成律诗、改韵脚或更狠更甜，告诉我再调！）",
+              "display_url": "x.com/i/grok/share/d…",
+              "end": 51,
+              "expanded_url": "https://x.com/i/grok/share/da84f35790804fc396e9e43a9ed5baa5",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2044721926145454080/trnhzNdD?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044721926145454080/trnhzNdD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "你这个不行，我这两句必须拼在一起对仗",
+              "unwound_url": "https://x.com/i/grok/share/da84f35790804fc396e9e43a9ed5baa5",
+              "url": "https://t.co/XYtNXtnAnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044721917916316026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没绷住\n泪水打湿贞操锁，前高上瘾合不拢\n......?\nhttps://t.co/XYtNXtnAnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 824,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/eietheenblacks…",
+                "end": 23,
+                "expanded_url": "https://t.me/eietheenblacksilk",
+                "start": 0,
+                "url": "https://t.co/hCc1qMgSfr"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25921,
+          "following_count": 14619,
+          "like_count": 2272,
+          "listed_count": 64,
+          "media_count": 2920,
+          "tweet_count": 9682
+        },
+        "url": "https://t.co/hCc1qMgSfr",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      }
+    ]
+  }
+}

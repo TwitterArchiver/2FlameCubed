@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2071873610814525796",
+    "created_at": "2026-06-30T11:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071918766611390796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1381528438826131457",
+          "start": 0,
+          "username": "ZedongWinine"
+        },
+        {
+          "end": 25,
+          "id": "1685499489493323776",
+          "start": 14,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071918766611390796",
+    "in_reply_to_user_id": "1381528438826131457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071918357851615689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZedongWinine @GuiMengNya 是的喵qwq 只是甲基苯丙胺不算直接多巴胺激动剂qwq，不是模拟多巴胺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2071873610814525796",
+        "created_at": "2026-06-30T11:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071918766611390796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1381528438826131457",
+              "start": 0,
+              "username": "ZedongWinine"
+            },
+            {
+              "end": 25,
+              "id": "1685499489493323776",
+              "start": 14,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071918766611390796",
+        "in_reply_to_user_id": "1381528438826131457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071918357851615689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZedongWinine @GuiMengNya 是的喵qwq 只是甲基苯丙胺不算直接多巴胺激动剂qwq，不是模拟多巴胺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381528438826131457",
+        "conversation_id": "2071873610814525796",
+        "created_at": "2026-06-30T11:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071918357851615689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667423809148981248",
+              "start": 0,
+              "username": "2FlameCubed"
+            },
+            {
+              "end": 24,
+              "id": "1685499489493323776",
+              "start": 13,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071918357851615689",
+        "in_reply_to_user_id": "1667423809148981248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071876262436421632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2FlameCubed @GuiMengNya 左旋多巴有-0H基的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 1006,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T08:43:58.000Z",
+        "description": "圓頭耄耋😻\n井上尚弥🥊big bang Zhang🥊\ndo bronx🥋 Jack Della Maddalena🥊Nick Diaz🚬\n白井智之😱方丈貴惠 📖",
+        "id": "1381528438826131457",
+        "location": "Henan",
+        "name": "川和.豆沙維尼🇹🇼 橘貓愛好份子",
+        "pinned_tweet_id": "2038641173875863617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024318566695325696/WKA0ABSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9754,
+          "following_count": 5995,
+          "like_count": 234158,
+          "listed_count": 97,
+          "media_count": 8724,
+          "tweet_count": 81727
+        },
+        "url": "",
+        "username": "ZedongWinine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10464,
+          "following_count": 692,
+          "like_count": 11501,
+          "listed_count": 30,
+          "media_count": 2396,
+          "tweet_count": 4782
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

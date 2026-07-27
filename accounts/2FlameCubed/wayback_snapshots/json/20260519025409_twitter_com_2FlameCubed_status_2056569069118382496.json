@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2056453950006764000",
+    "created_at": "2026-05-19T02:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056569069118382496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810949901708316674",
+          "start": 0,
+          "username": "qq3882917648785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056569069118382496",
+    "in_reply_to_user_id": "1810949901708316674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056453950006764000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qq3882917648785 你也成为阿片鬼👻了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2056453950006764000",
+        "created_at": "2026-05-19T02:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056569069118382496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810949901708316674",
+              "start": 0,
+              "username": "qq3882917648785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056569069118382496",
+        "in_reply_to_user_id": "1810949901708316674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056453950006764000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qq3882917648785 你也成为阿片鬼👻了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810949901708316674",
+        "conversation_id": "2056453950006764000",
+        "created_at": "2026-05-18T19:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056453950006764000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056453950006764000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现把复方羟考酮磨成粉装胶囊起效非常快\n今天0.75g克拉霉素+15mg羟考酮+唑吡坦10mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 897,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 230
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T08:11:35.000Z",
+        "description": "",
+        "id": "1810949901708316674",
+        "name": "qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985621590898589699/yigPbVN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 238,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 89
+        },
+        "username": "qq3882917648785",
+        "verified": false
+      }
+    ]
+  }
+}

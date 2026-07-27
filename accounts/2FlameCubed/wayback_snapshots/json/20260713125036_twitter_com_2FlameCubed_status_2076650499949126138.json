@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2076648968755556407",
+    "created_at": "2026-07-13T12:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076650499949126138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1199354344501497856",
+          "start": 0,
+          "username": "silentparty1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076650499949126138",
+    "in_reply_to_user_id": "1199354344501497856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076650319690534948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silentparty1 这个不是永久性的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2076648968755556407",
+        "created_at": "2026-07-13T12:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076650499949126138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1199354344501497856",
+              "start": 0,
+              "username": "silentparty1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076650499949126138",
+        "in_reply_to_user_id": "1199354344501497856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076650319690534948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentparty1 这个不是永久性的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199354344501497856",
+        "conversation_id": "2076648968755556407",
+        "created_at": "2026-07-13T12:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076650319690534948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667423809148981248",
+              "start": 0,
+              "username": "2FlameCubed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076650319690534948",
+        "in_reply_to_user_id": "1667423809148981248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076649647993696588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2FlameCubed 不如阿比特龙+地塞米松，这组合还不算贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 1034,
+          "like_count": 2506,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T15:49:50.000Z",
+        "description": "facing the dizzying light/想做个收集知识的八爪鱼/25年12月之前的点赞和推文是自己曾经的样子/国男/指路正经账号@silentparty5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "silentparty5"
+              }
+            ]
+          }
+        },
+        "id": "1199354344501497856",
+        "name": "夢原あかね",
+        "pinned_tweet_id": "2049348850914410707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029482269208125440/8CB2HPOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 464,
+          "like_count": 14578,
+          "listed_count": 1,
+          "media_count": 616,
+          "tweet_count": 4226
+        },
+        "url": "",
+        "username": "silentparty1",
+        "verified": false
+      }
+    ]
+  }
+}

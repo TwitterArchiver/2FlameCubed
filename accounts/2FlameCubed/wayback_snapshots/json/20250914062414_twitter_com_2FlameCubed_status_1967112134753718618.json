@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966677200138366980"
+      ],
+      "media_source_tweet_id": [
+        "1966677409962549736"
+      ]
+    },
+    "author_id": "1667423809148981248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      }
+    ],
+    "conversation_id": "1967112134753718618",
+    "created_at": "2025-09-14T06:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T07:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967112134753718618"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "HTV-X1",
+          "probability": 0.3218,
+          "start": 23,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "HTVX"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "宇宙の日"
+        },
+        {
+          "end": 64,
+          "start": 56,
+          "tag": "GoHTVX1"
+        },
+        {
+          "end": 72,
+          "start": 65,
+          "tag": "GoH3F7"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "257446790",
+          "start": 3,
+          "username": "itoht2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gV7Qm6U0fW",
+          "end": 96,
+          "expanded_url": "https://x.com/itoht2/status/1966677409962549736/photo/1",
+          "media_key": "3_1966677200138366980",
+          "start": 73,
+          "url": "https://t.co/gV7Qm6U0fW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967112134753718618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 406
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966677409962549736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itoht2: 新幹線風 H3のあれ、HTV-X1用にアップデートしました。\n\n#HTVX #宇宙の日 #GoHTVX1 #GoH3F7 https://t.co/gV7Qm6U0fW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_1966677200138366980",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0sKfl4bcAQiqY-.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966677200138366980"
+          ],
+          "media_source_tweet_id": [
+            "1966677409962549736"
+          ]
+        },
+        "author_id": "1667423809148981248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "1967112134753718618",
+        "created_at": "2025-09-14T06:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T07:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967112134753718618"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "HTV-X1",
+              "probability": 0.3218,
+              "start": 23,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "HTVX"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "宇宙の日"
+            },
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "GoHTVX1"
+            },
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "GoH3F7"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "257446790",
+              "start": 3,
+              "username": "itoht2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gV7Qm6U0fW",
+              "end": 96,
+              "expanded_url": "https://x.com/itoht2/status/1966677409962549736/photo/1",
+              "media_key": "3_1966677200138366980",
+              "start": 73,
+              "url": "https://t.co/gV7Qm6U0fW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967112134753718618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 406
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966677409962549736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itoht2: 新幹線風 H3のあれ、HTV-X1用にアップデートしました。\n\n#HTVX #宇宙の日 #GoHTVX1 #GoH3F7 https://t.co/gV7Qm6U0fW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966677200138366980"
+          ]
+        },
+        "author_id": "257446790",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "1966677409962549736",
+        "created_at": "2025-09-13T01:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T02:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966677409962549736"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "HTV-X1",
+              "probability": 0.3726,
+              "start": 11,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "HTVX"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "宇宙の日"
+            },
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "GoHTVX1"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "GoH3F7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gV7Qm6U0fW",
+              "end": 84,
+              "expanded_url": "https://x.com/itoht2/status/1966677409962549736/photo/1",
+              "media_key": "3_1966677200138366980",
+              "start": 61,
+              "url": "https://t.co/gV7Qm6U0fW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966677409962549736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 51709,
+          "like_count": 1376,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 406
+        },
+        "reply_settings": "everyone",
+        "text": "新幹線風 H3のあれ、HTV-X1用にアップデートしました。\n\n#HTVX #宇宙の日 #GoHTVX1 #GoH3F7 https://t.co/gV7Qm6U0fW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930818886049689600/4G899iQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 721,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-25T12:52:06.000Z",
+        "description": "新潟産：伊豆大島から一時的に本土在住。宇宙、ロケット、オープンカー、海、島、クサヤ好き。元機械系技術者（SとHに勤務経験あり）。 基本Xは書き捨て御免。 ペーパークラフトを作り始めました。最新作はJAXAのMMX 。 ボーイスカウトの隊長休止中。MINI を買ってうっきうき。なおS660は島に置き去り。とびもの学会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "itoht2.wixsite.com/paper",
+                "end": 23,
+                "expanded_url": "https://itoht2.wixsite.com/paper",
+                "start": 0,
+                "url": "https://t.co/NphfejC9xB"
+              }
+            ]
+          }
+        },
+        "id": "257446790",
+        "location": "離島だけど山の上。津波は怖くない。噴火怖い。東京は地震怖い。",
+        "name": "いとーT[最近はペーパークラフト作家]",
+        "pinned_tweet_id": "1962392435637796947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578569377280012288/yPTJxD_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 1026,
+          "like_count": 36778,
+          "listed_count": 27,
+          "media_count": 11733,
+          "tweet_count": 57479
+        },
+        "url": "https://t.co/NphfejC9xB",
+        "username": "itoht2",
+        "verified": true
+      }
+    ]
+  }
+}

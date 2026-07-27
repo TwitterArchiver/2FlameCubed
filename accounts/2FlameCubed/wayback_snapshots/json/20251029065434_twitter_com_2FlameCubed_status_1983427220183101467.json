@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "1983427220183101467",
+    "created_at": "2025-10-29T06:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T07:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983427220183101467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "16539917",
+          "start": 3,
+          "username": "iCyclone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983427220183101467",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1204
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983195190656676007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iCyclone: 10:25 am. Frightening power. Whiteout.  Roofs teaing off. Gusts like bombs going off. Painful ears. Praise the lord for solid…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "1983427220183101467",
+        "created_at": "2025-10-29T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983427220183101467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "16539917",
+              "start": 3,
+              "username": "iCyclone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983427220183101467",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1204
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983195190656676007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iCyclone: 10:25 am. Frightening power. Whiteout.  Roofs teaing off. Gusts like bombs going off. Painful ears. Praise the lord for solid…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "16539917",
+        "conversation_id": "1983195190656676007",
+        "created_at": "2025-10-28T15:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983195190656676007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983195190656676007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 742,
+          "impression_count": 1998707,
+          "like_count": 10891,
+          "quote_count": 218,
+          "reply_count": 351,
+          "retweet_count": 1204
+        },
+        "reply_settings": "everyone",
+        "text": "10:25 am. Frightening power. Whiteout.  Roofs teaing off. Gusts like bombs going off. Painful ears. Praise the lord for solid concrete. 962 mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983059607796019200/CEdpGWC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 717,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 68
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2008-10-01T03:57:50.000Z",
+        "description": "Hardcore hurricane chaser. Mississippi transplant. Proud Harvard man. Righteous Bay Rat. The #HurricaneMan.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 93,
+                "tag": "HurricaneMan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/iCyclone",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/iCyclone",
+                "start": 0,
+                "url": "https://t.co/0wXtR4KI2l"
+              }
+            ]
+          }
+        },
+        "id": "16539917",
+        "location": "Bay Saint Louis, Mississippi",
+        "name": "Josh Morgerman",
+        "pinned_tweet_id": "1172228296227971072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1045222509631565824/Q445ymsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201537,
+          "following_count": 2547,
+          "like_count": 122040,
+          "listed_count": 2368,
+          "media_count": 6316,
+          "tweet_count": 60466
+        },
+        "url": "https://t.co/0wXtR4KI2l",
+        "username": "iCyclone",
+        "verified": true
+      }
+    ]
+  }
+}

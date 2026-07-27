@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954649380432363520"
+      ],
+      "media_source_tweet_id": [
+        "1954649407120691411"
+      ]
+    },
+    "author_id": "1667423809148981248",
+    "conversation_id": "1954731516711641369",
+    "created_at": "2025-08-11T02:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T03:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954731516711641369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1331466792347201536",
+          "start": 3,
+          "username": "Doomer_Armus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W6XEGmBBlB",
+          "end": 41,
+          "expanded_url": "https://x.com/Doomer_Armus/status/1954649407120691411/photo/1",
+          "media_key": "3_1954649380432363520",
+          "start": 18,
+          "url": "https://t.co/W6XEGmBBlB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954731516711641369",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954649407120691411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Doomer_Armus: https://t.co/W6XEGmBBlB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_1954649380432363520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyBPQV0bwAA1daF.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954649380432363520"
+          ],
+          "media_source_tweet_id": [
+            "1954649407120691411"
+          ]
+        },
+        "author_id": "1667423809148981248",
+        "conversation_id": "1954731516711641369",
+        "created_at": "2025-08-11T02:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T03:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954731516711641369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1331466792347201536",
+              "start": 3,
+              "username": "Doomer_Armus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6XEGmBBlB",
+              "end": 41,
+              "expanded_url": "https://x.com/Doomer_Armus/status/1954649407120691411/photo/1",
+              "media_key": "3_1954649380432363520",
+              "start": 18,
+              "url": "https://t.co/W6XEGmBBlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954731516711641369",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954649407120691411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Doomer_Armus: https://t.co/W6XEGmBBlB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954649380432363520"
+          ]
+        },
+        "author_id": "1331466792347201536",
+        "conversation_id": "1954649407120691411",
+        "created_at": "2025-08-10T21:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T22:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954649407120691411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6XEGmBBlB",
+              "end": 23,
+              "expanded_url": "https://x.com/Doomer_Armus/status/1954649407120691411/photo/1",
+              "media_key": "3_1954649380432363520",
+              "start": 0,
+              "url": "https://t.co/W6XEGmBBlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954649407120691411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3954,
+          "like_count": 308,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W6XEGmBBlB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930818886049689600/4G899iQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 716,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-25T05:16:54.000Z",
+        "description": "I AM evil made of unwanted Dr. Thunder syrup that spread and coalesced into a dank and vile second skin. ➡️ #parody ⬅️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 108,
+                "tag": "parody"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "memory-alpha.fandom.com/wiki/Armus",
+                "end": 23,
+                "expanded_url": "https://memory-alpha.fandom.com/wiki/Armus",
+                "start": 0,
+                "url": "https://t.co/Smaex0eTYE"
+              }
+            ]
+          }
+        },
+        "id": "1331466792347201536",
+        "location": "Vagra II",
+        "name": "ARMUS Skin of Evil (parody)",
+        "pinned_tweet_id": "1433529715088760836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852515322701705216/zdPyqakH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6609,
+          "following_count": 770,
+          "like_count": 35582,
+          "listed_count": 39,
+          "media_count": 16581,
+          "tweet_count": 34247
+        },
+        "url": "https://t.co/Smaex0eTYE",
+        "username": "Doomer_Armus",
+        "verified": true
+      }
+    ]
+  }
+}

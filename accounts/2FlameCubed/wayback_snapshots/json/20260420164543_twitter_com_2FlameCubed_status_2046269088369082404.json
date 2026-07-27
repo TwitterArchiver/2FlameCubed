@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2046266697393623055",
+    "created_at": "2026-04-20T16:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046269088369082404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852981510250618880",
+          "start": 0,
+          "username": "SLY060114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046269088369082404",
+    "in_reply_to_user_id": "1852981510250618880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046266697393623055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLY060114 可爱ớ ₃ờ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_2046266683988508672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXMtR7aAAAsRJE.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2046266697393623055",
+        "created_at": "2026-04-20T16:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046269088369082404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852981510250618880",
+              "start": 0,
+              "username": "SLY060114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046269088369082404",
+        "in_reply_to_user_id": "1852981510250618880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046266697393623055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLY060114 可爱ớ ₃ờ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046266683988508672"
+          ]
+        },
+        "author_id": "1852981510250618880",
+        "conversation_id": "2046266697393623055",
+        "created_at": "2026-04-20T16:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046266697393623055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LH9Yeh0f1x",
+              "end": 31,
+              "expanded_url": "https://x.com/SLY060114/status/2046266697393623055/photo/1",
+              "media_key": "3_2046266683988508672",
+              "start": 8,
+              "url": "https://t.co/LH9Yeh0f1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046266697393623055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "どこ見てんのよ https://t.co/LH9Yeh0f1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 833,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 160
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T07:50:06.000Z",
+        "description": "俺みたいな奴が天国に行けるなら、地獄には誰もいないだろうな❤～",
+        "id": "1852981510250618880",
+        "location": "Miskatonic University",
+        "name": "しょう りん ぎ",
+        "pinned_tweet_id": "2032860776910959061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031357833871294464/mbsA1KOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 46,
+          "like_count": 974,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 437
+        },
+        "username": "SLY060114",
+        "verified": false
+      }
+    ]
+  }
+}

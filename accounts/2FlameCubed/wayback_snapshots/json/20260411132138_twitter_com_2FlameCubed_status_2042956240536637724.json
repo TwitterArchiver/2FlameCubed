@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2042940574697951346",
+    "created_at": "2026-04-11T13:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042956240536637724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1920438574715154432",
+          "start": 0,
+          "username": "jiushubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042956240536637724",
+    "in_reply_to_user_id": "1920438574715154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042940574697951346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiushubaike 致所有看到这条消息的人：鸡哥现在生死不明，很有可能被警哥控制，这个群是为了钓鱼创建的。\n为了大家的安全，请不要加入此群，也不要相信任何鸡哥最近说的话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042940571485114369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFn7oDSakAEuWnj.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2042940574697951346",
+        "created_at": "2026-04-11T13:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042956240536637724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1920438574715154432",
+              "start": 0,
+              "username": "jiushubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042956240536637724",
+        "in_reply_to_user_id": "1920438574715154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042940574697951346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiushubaike 致所有看到这条消息的人：鸡哥现在生死不明，很有可能被警哥控制，这个群是为了钓鱼创建的。\n为了大家的安全，请不要加入此群，也不要相信任何鸡哥最近说的话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042940571485114369"
+          ]
+        },
+        "author_id": "1920438574715154432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2042940574697951346",
+        "created_at": "2026-04-11T12:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042940574697951346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbIXs60s9O",
+              "end": 31,
+              "expanded_url": "https://x.com/jiushubaike/status/2042940574697951346/photo/1",
+              "media_key": "3_2042940571485114369",
+              "start": 8,
+              "url": "https://t.co/DbIXs60s9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042940574697951346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "化学极乐交流群 https://t.co/DbIXs60s9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 814,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 136
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "救赎百科",
+        "pinned_tweet_id": "2036728396714311988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 298,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 164
+        },
+        "username": "jiushubaike",
+        "verified": false
+      }
+    ]
+  }
+}

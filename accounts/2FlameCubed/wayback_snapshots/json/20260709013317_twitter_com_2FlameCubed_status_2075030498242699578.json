@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2075018403451179496",
+    "created_at": "2026-07-09T01:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075030498242699578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075030498242699578",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075018403451179496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 美洛加巴林？英文是mirogabalin，接近音译米罗巴林"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075018398254403584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvyPUJakAAQH1Y.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075018398258573312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvyPUKaMAAZQMZ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2075018403451179496",
+        "created_at": "2026-07-09T01:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075030498242699578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075030498242699578",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075018403451179496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 美洛加巴林？英文是mirogabalin，接近音译米罗巴林"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075018398254403584",
+            "3_2075018398258573312"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2075018403451179496",
+        "created_at": "2026-07-09T00:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075018403451179496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFMA4QZt3T",
+              "end": 49,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2075018403451179496/photo/1",
+              "media_key": "3_2075018398254403584",
+              "start": 26,
+              "url": "https://t.co/rFMA4QZt3T"
+            },
+            {
+              "display_url": "pic.x.com/rFMA4QZt3T",
+              "end": 49,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2075018403451179496/photo/1",
+              "media_key": "3_2075018398258573312",
+              "start": 26,
+              "url": "https://t.co/rFMA4QZt3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075018403451179496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "米罗巴林是个啥？还有普瑞导致血清素综合症的都来了👍 https://t.co/rFMA4QZt3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1017,
+          "like_count": 2290,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 230,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 918
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2064222356265198075",
+    "created_at": "2026-06-09T05:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064223459803271347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "misumikaede3"
+        },
+        {
+          "end": 23,
+          "id": "1989191439339933696",
+          "start": 14,
+          "username": "Hiro8964"
+        },
+        {
+          "end": 32,
+          "id": "1914611702747779072",
+          "start": 24,
+          "username": "nox8964"
+        },
+        {
+          "end": 44,
+          "id": "1736686097919569920",
+          "start": 33,
+          "username": "sesamesama"
+        },
+        {
+          "end": 60,
+          "id": "1775522951749591040",
+          "start": 45,
+          "username": "binbin77930833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064223459803271347",
+    "in_reply_to_user_id": "1802704441961017344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064222356265198075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misumikaede3 @Hiro8964 @nox8964 @sesamesama @binbin77930833 呃啊……三角枫酱发生什么了呀qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2064222356265198075",
+        "created_at": "2026-06-09T05:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064223459803271347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 23,
+              "id": "1989191439339933696",
+              "start": 14,
+              "username": "Hiro8964"
+            },
+            {
+              "end": 32,
+              "id": "1914611702747779072",
+              "start": 24,
+              "username": "nox8964"
+            },
+            {
+              "end": 44,
+              "id": "1736686097919569920",
+              "start": 33,
+              "username": "sesamesama"
+            },
+            {
+              "end": 60,
+              "id": "1775522951749591040",
+              "start": 45,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064223459803271347",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064222356265198075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaede3 @Hiro8964 @nox8964 @sesamesama @binbin77930833 呃啊……三角枫酱发生什么了呀qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2064222356265198075",
+        "created_at": "2026-06-09T05:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064222356265198075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1989191439339933696",
+              "start": 19,
+              "username": "Hiro8964"
+            },
+            {
+              "end": 37,
+              "id": "1914611702747779072",
+              "start": 29,
+              "username": "nox8964"
+            },
+            {
+              "end": 49,
+              "id": "1736686097919569920",
+              "start": 38,
+              "username": "sesamesama"
+            },
+            {
+              "end": 65,
+              "id": "1775522951749591040",
+              "start": 50,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064222356265198075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们所有人都是，都把我用完即弃的混蛋，@Hiro8964 @nox8964 @sesamesama @binbin77930833"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 962,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 302
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 124,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1187,
+          "like_count": 35534,
+          "listed_count": 5,
+          "media_count": 351,
+          "tweet_count": 11102
+        },
+        "username": "misumikaede3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T04:39:32.000Z",
+        "description": "我就推丰川祥子怎么你了",
+        "id": "1989191439339933696",
+        "name": "Hiro",
+        "pinned_tweet_id": "2057836503393583580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055618239368183808/_d1fgv0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 263,
+          "like_count": 5213,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2116
+        },
+        "username": "Hiro8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "enby｜Social liberalism｜德语🇩🇪学习中（目前很烂很烂）｜Liberté, égalité, fraternité🇫🇷｜你喜欢我＝我喜欢你｜反威权｜接受任何友善的立场和我交流｜如果心结解不开那就系成蝴蝶结吧 ｜副人格：@saki8964\n 叫我小夜就可以了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "saki8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gYX8"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚNachtɞ✟₊🌹🏴‍☠️#bot",
+        "pinned_tweet_id": "2039820910442471655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059434822767185920/PpMAMw4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 713,
+          "like_count": 9915,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/wdpxB4gYX8",
+        "username": "nox8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T09:53:42.000Z",
+        "description": "情绪垃圾桶，这里不社交",
+        "id": "1736686097919569920",
+        "location": "不知道",
+        "name": "meowdel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028948497429667840/ZExPgj9k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 568,
+          "like_count": 20802,
+          "listed_count": 6,
+          "media_count": 79,
+          "tweet_count": 1551
+        },
+        "username": "sesamesama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2049463049023861091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 321,
+          "like_count": 1300,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

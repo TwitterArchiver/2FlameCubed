@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066161920953217024"
+      ],
+      "media_source_tweet_id": [
+        "2066161929979408720"
+      ]
+    },
+    "author_id": "1667423809148981248",
+    "conversation_id": "2066180912375841036",
+    "created_at": "2026-06-14T15:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066180912375841036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802704441961017344",
+          "start": 3,
+          "username": "misumikaede3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7pTzuyCnb",
+          "end": 41,
+          "expanded_url": "https://x.com/misumikaede3/status/2066161929979408720/photo/1",
+          "media_key": "3_2066161920953217024",
+          "start": 18,
+          "url": "https://t.co/r7pTzuyCnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066180912375841036",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066161929979408720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misumikaede3: https://t.co/r7pTzuyCnb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066180912375841036].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066180912375841036",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066180912375841036"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_2066161920953217024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx7UfLa8AABglS.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066161920953217024"
+          ]
+        },
+        "author_id": "1802704441961017344",
+        "conversation_id": "2066161929979408720",
+        "created_at": "2026-06-14T14:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066161929979408720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7pTzuyCnb",
+              "end": 23,
+              "expanded_url": "https://x.com/misumikaede3/status/2066161929979408720/photo/1",
+              "media_key": "3_2066161920953217024",
+              "start": 0,
+              "url": "https://t.co/r7pTzuyCnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066161929979408720",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r7pTzuyCnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 971,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 319
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉 小号的我：你猜",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 1217,
+          "like_count": 36120,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 11465
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

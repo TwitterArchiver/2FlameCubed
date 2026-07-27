@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2050936907702665572",
+    "created_at": "2026-05-03T14:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050942347157049549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680885785166495744",
+          "start": 0,
+          "username": "jiangyujie0621"
+        },
+        {
+          "end": 31,
+          "id": "1385919167971282946",
+          "start": 16,
+          "username": "whyyoutangping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050942347157049549",
+    "in_reply_to_user_id": "1680885785166495744",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050942033515425931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangyujie0621 @whyyoutangping qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2050936907702665572",
+        "created_at": "2026-05-03T14:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050942347157049549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680885785166495744",
+              "start": 0,
+              "username": "jiangyujie0621"
+            },
+            {
+              "end": 31,
+              "id": "1385919167971282946",
+              "start": 16,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050942347157049549",
+        "in_reply_to_user_id": "1680885785166495744",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050942033515425931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangyujie0621 @whyyoutangping qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680885785166495744",
+        "conversation_id": "2050936907702665572",
+        "created_at": "2026-05-03T14:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050942033515425931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667423809148981248",
+              "start": 0,
+              "username": "2FlameCubed"
+            },
+            {
+              "end": 28,
+              "id": "1385919167971282946",
+              "start": 13,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050942033515425931",
+        "in_reply_to_user_id": "1667423809148981248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050941330894008601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2FlameCubed @whyyoutangping 没用，大号影ban是回复被屏蔽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 869,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 186
+        },
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T10:23:09.000Z",
+        "description": "世界上只有一种真正英雄主义，那就是在认清生活的真相后依然选择热爱生活。doro主义并非拯救的是doro，而是那位在所有艺术作品中都存在，却一直被我们忽略的人——自己。\n愿世界上每一个人都能获得自己的好欧润吉。",
+        "id": "1680885785166495744",
+        "location": "大豆异黄酮星球",
+        "name": "天才豆娘异黄酮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050917244109254656/y_WEQdwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "jiangyujie0621",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（不能断药）｜I人（我也不清楚哈）｜服用大豆异黄酮｜禁止涩涩｜已经乳腺微微发育出一小粒腺体｜也许是MTX？？？\n欢迎骚扰我喵：https://t.co/fmhkL0PNyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tangpingDN",
+                "end": 117,
+                "expanded_url": "http://t.me/tangpingDN",
+                "start": 94,
+                "url": "https://t.co/fmhkL0PNyb"
+              }
+            ]
+          }
+        },
+        "id": "1385919167971282946",
+        "location": "躺平星球",
+        "name": "我的雌二醇怎么变成了大豆异黄酮了喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050243518149636096/lalp9RN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 54,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 280
+        },
+        "username": "whyyoutangping",
+        "verified": true
+      }
+    ]
+  }
+}
