@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083818370269626368"
+      ]
+    },
+    "author_id": "1667423809148981248",
+    "conversation_id": "2083807988662604257",
+    "created_at": "2026-08-02T07:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083818375655109034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051911190108860424",
+          "start": 0,
+          "username": "_ReinforceZwei_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t5GJtFZKqi",
+          "end": 40,
+          "expanded_url": "https://x.com/2FlameCubed/status/2083818375655109034/photo/1",
+          "media_key": "3_2083818370269626368",
+          "start": 17,
+          "url": "https://t.co/t5GJtFZKqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083818375655109034",
+    "in_reply_to_user_id": "2051911190108860424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083807988662604257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ReinforceZwei_ https://t.co/t5GJtFZKqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2083818370269626368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs1xGhawAA-wOH.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083818370269626368"
+          ]
+        },
+        "author_id": "1667423809148981248",
+        "conversation_id": "2083807988662604257",
+        "created_at": "2026-08-02T07:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083818375655109034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051911190108860424",
+              "start": 0,
+              "username": "_ReinforceZwei_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5GJtFZKqi",
+              "end": 40,
+              "expanded_url": "https://x.com/2FlameCubed/status/2083818375655109034/photo/1",
+              "media_key": "3_2083818370269626368",
+              "start": 17,
+              "url": "https://t.co/t5GJtFZKqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083818375655109034",
+        "in_reply_to_user_id": "2051911190108860424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083807988662604257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ReinforceZwei_ https://t.co/t5GJtFZKqi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051911190108860424",
+        "conversation_id": "2083807988662604257",
+        "created_at": "2026-08-02T06:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083807988662604257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083807988662604257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想吸毒💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 1075,
+          "like_count": 3641,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T06:26:26.000Z",
+        "description": "祈りは未来へと　つないで\n温もりを　安らぎを　守れるよ",
+        "id": "2051911190108860424",
+        "location": "夜天の書",
+        "name": "Reinforce Zwei",
+        "pinned_tweet_id": "2063261513218224497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053513930576986112/UkiRKRuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "_ReinforceZwei_",
+        "verified": false
+      }
+    ]
+  }
+}
