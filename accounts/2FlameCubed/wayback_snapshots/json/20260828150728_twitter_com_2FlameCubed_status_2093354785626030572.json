@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2093350664776929773",
+    "created_at": "2026-08-28T15:07:28.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093354785626030572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817464253118562304",
+          "start": 0,
+          "username": "As1_SHark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093354785626030572",
+    "in_reply_to_user_id": "1817464253118562304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093350664776929773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@As1_SHark （哭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2093350664776929773",
+        "created_at": "2026-08-28T15:07:28.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093354785626030572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817464253118562304",
+              "start": 0,
+              "username": "As1_SHark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093354785626030572",
+        "in_reply_to_user_id": "1817464253118562304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093350664776929773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@As1_SHark （哭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817464253118562304",
+        "conversation_id": "2093350664776929773",
+        "created_at": "2026-08-28T14:51:05.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093350664776929773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093350664776929773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "&gt;因为呕吐所以吃了止吐剂\n&gt;然后因为呕吐所以把止吐剂也吐出来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖 姐姐&恋人 @AmeI0923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "AmeI0923"
+              }
+            ]
+          }
+        },
+        "id": "1667423809148981248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093354785626030572",
+        "name": "flame",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667423809148981248/1777608764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1080,
+          "like_count": 4712,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-28T07:37:12.000Z",
+        "description": "我不知道我该是谁了/持证含糖mtx\n💊傲慢的嗑药家\n🇨🇳简中/🇹🇼繁中/两岸一家亲🫶🏻\n我很缺爱",
+        "id": "1817464253118562304",
+        "is_identity_verified": false,
+        "location": "炼狱小镇",
+        "most_recent_tweet_id": "2093350664776929773",
+        "name": "诙谐孤岛#南河三",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817464253118562304/1722152999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051887263928479744/tKIjQk5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 91,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "As1_SHark",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

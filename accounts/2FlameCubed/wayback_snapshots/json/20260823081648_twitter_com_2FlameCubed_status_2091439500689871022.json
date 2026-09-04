@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2091438692154183729",
+    "created_at": "2026-08-23T08:16:48.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091439500689871022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023258926880636928",
+          "start": 0,
+          "username": "plane294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091439500689871022",
+    "in_reply_to_user_id": "2023258926880636928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091438692154183729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plane294 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2091438692154183729",
+        "created_at": "2026-08-23T08:16:48.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091439500689871022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023258926880636928",
+              "start": 0,
+              "username": "plane294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091439500689871022",
+        "in_reply_to_user_id": "2023258926880636928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091438692154183729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plane294 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023258926880636928",
+        "conversation_id": "2091438692154183729",
+        "created_at": "2026-08-23T08:13:35.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091438692154183729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091438692154183729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我确实在这里死了 每天的重度焦虑 和双相躯体化就让我生不如死的 每天机械的刷抖音 洗漱什么的懒得去 喝水吃饭懒得喝\n你猜这是为什么\n因为我妈知道我手机密码 在我不知情的情况下退掉了一些东西 然后每天莫名其妙的翻箱倒柜的找我东西 我之前那些原粉什么的都被扔了 也就算了 还要天天翻\n没有隐私权了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖 姐姐&恋人 @AmeI0923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "AmeI0923"
+              }
+            ]
+          }
+        },
+        "id": "1667423809148981248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091439500689871022",
+        "name": "flame",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667423809148981248/1777608764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1082,
+          "like_count": 4537,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:51:43.000Z",
+        "description": "一世@badapple7788 我不知道原来号咋了有点难绷😅\n也找不到找回来的按钮 666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "badapple7788"
+              }
+            ]
+          }
+        },
+        "id": "2023258926880636928",
+        "is_identity_verified": false,
+        "location": "距离你0.0001cm🩷❤️🧡💛💚🩵💙💜",
+        "most_recent_tweet_id": "2091438692154183729",
+        "name": "辞落 2.0（前世寻回互fo）",
+        "pinned_tweet_id": "2089312453247254531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023258926880636928/1786961965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089133119890923520/w-7FOuBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 76,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "plane294",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
