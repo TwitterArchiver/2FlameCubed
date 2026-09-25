@@ -1,11 +1,20 @@
 {
   "name": "flame",
   "username": "@2FlameCubed",
-  "bio": "天空，人与未来 ｜Space , the final frontier 🖖",
+  "bio": "天空，人与未来 ｜Space , the final frontier 🖖 姐姐&恋人 @AmeI0923",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 53,
+        "start": 44,
+        "username": "AmeI0923"
+      }
+    ]
+  }
 }
