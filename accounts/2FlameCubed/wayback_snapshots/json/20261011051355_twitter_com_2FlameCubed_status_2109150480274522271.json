@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2109103753668567199",
+    "created_at": "2026-10-11T05:13:55.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T06:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109150480274522271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019464858006351872",
+          "start": 0,
+          "username": "kuluoyiluo002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109150480274522271",
+    "in_reply_to_user_id": "2019464858006351872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109103753668567199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuluoyiluo002 好耶！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2109103753668567199].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2109103753668567199",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2109103753668567199"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2109103753668567199",
+        "created_at": "2026-10-11T05:13:55.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T06:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109150480274522271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019464858006351872",
+              "start": 0,
+              "username": "kuluoyiluo002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109150480274522271",
+        "in_reply_to_user_id": "2019464858006351872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109103753668567199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuluoyiluo002 好耶！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖 姐姐&恋人 @AmeI0923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "AmeI0923"
+              }
+            ]
+          }
+        },
+        "id": "1667423809148981248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109150480274522271",
+        "name": "flame",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667423809148981248/1777608764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 1096,
+          "like_count": 6366,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-05T17:35:26.000Z",
+        "description": "u/1f365*ｴｽﾄﾗｼﾞｵｰﾙ // 网瘾少女 / 常年性耳背 / 过敏性鼻炎 / SSRI OD大师 / 血清素综合症享受者 / 可的索忠实爱好者 / 药源短缺 × 戒断战士 //《六⭐️干员伊洛为你所用～！》// ✞️被神选中的少女✞ //",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isslivenow.com",
+                "end": 23,
+                "expanded_url": "https://isslivenow.com",
+                "start": 0,
+                "url": "https://t.co/N07KVm2UZc"
+              }
+            ]
+          }
+        },
+        "id": "2019464858006351872",
+        "is_identity_verified": false,
+        "location": "I.S.S.",
+        "most_recent_tweet_id": "2097985673768894693",
+        "name": "◈ 伊洛² ◈　💊🧸 ✞️昇天✞: 𝕽𝖊𝖇𝖎𝖗𝖙𝖍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019464858006351872/1791385274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107038547249410048/NBA--X2E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 146,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/N07KVm2UZc",
+        "username": "kuluoyiluo002",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

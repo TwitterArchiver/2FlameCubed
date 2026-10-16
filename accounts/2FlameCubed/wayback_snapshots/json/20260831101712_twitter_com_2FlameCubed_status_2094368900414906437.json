@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1667423809148981248",
+    "conversation_id": "2094362089058111681",
+    "created_at": "2026-08-31T10:17:12.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094368900414906437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781510736000274432",
+          "start": 0,
+          "username": "huantim7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094368900414906437",
+    "in_reply_to_user_id": "1781510736000274432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094362089058111681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huantim7 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2094362089058111681",
+        "created_at": "2026-08-31T10:17:12.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094368900414906437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781510736000274432",
+              "start": 0,
+              "username": "huantim7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094368900414906437",
+        "in_reply_to_user_id": "1781510736000274432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094362089058111681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huantim7 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2094362089058111681",
+        "created_at": "2026-08-31T09:50:08.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094362089058111681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim7/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/huantim7/status/2094343850802532459",
+              "start": 12,
+              "url": "https://t.co/kqnGd0gWCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094362089058111681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094343850802532459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被迫剪头发了😭\n好丑😭 https://t.co/kqnGd0gWCk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖 姐姐&恋人 @AmeI0923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "AmeI0923"
+              }
+            ]
+          }
+        },
+        "id": "1667423809148981248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094368900414906437",
+        "name": "flame",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667423809148981248/1777608764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1079,
+          "like_count": 4805,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "is_identity_verified": true,
+        "location": "南门二",
+        "most_recent_tweet_id": "2094362487038837082",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781510736000274432/1773542916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 829,
+          "like_count": 113918,
+          "listed_count": 3,
+          "media_count": 617,
+          "tweet_count": 6960
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
